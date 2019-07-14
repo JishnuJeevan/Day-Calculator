@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563008062 source:e:\software\code blocks projects\day calculator\main.cpp
+	<iostream>
+	<stdlib.h>
+
